@@ -1,0 +1,28 @@
+#include <unordered_set>
+
+class Solution {
+public:
+    bool isHappy(int n) {
+        std::unordered_set<int> seen;
+
+        while (n != 1) {
+            if (seen.find(n) != seen.end()) {
+                return false; // Loop detected, not a happy number
+            }
+
+            seen.insert(n);
+            int sum = 0;
+
+            // Compute the sum of squares of digits
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
+            }
+
+            n = sum;
+        }
+
+        return true;  // Number is a happy number, as it equals 1
+    }
+};
