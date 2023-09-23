@@ -9,7 +9,7 @@ This repository contains my solutions to the '100 Days of Code' challenge, where
 
 ## Introduction
 
-In this repository, I am documenting my journey through the '100 Days of Code' challenge. Each day, I solve coding problems from different platforms, striving to enhance my skills and understanding of data structures and algorithms.
+In this repository, I am documenting my journey through the '100 Days of Code' challenge. Each day, I solve coding problems from different platforms, striving to enhance my skills and understanding of data structures and algorithms a little more than the previous day.
 
 ## Challenge Progress
 
