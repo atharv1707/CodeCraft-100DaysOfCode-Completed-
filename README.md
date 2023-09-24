@@ -3,7 +3,7 @@
 
 # CodeCraft - 100 Days of Code Challenge
 
-This repository contains my solutions to the '100 Days of Code' challenge, where I tackle problems from various platforms like LeetCode, GFG, CodeChef, etc.
+Hello friend! Thanks for diving in so far in my profile! This repository contains my solutions to the '100 Days of Code' challenge, where I tackle problems from various platforms like LeetCode, GFG, CodeChef, etc.
 
 
 
