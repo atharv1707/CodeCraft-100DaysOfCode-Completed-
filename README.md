@@ -19,6 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            | [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Plus%20One)                         | [Plus One](https://leetcode.com/problems/plus-one/description/)                         |
 | 2             | 2023-09-24 | [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LPC.cpp)                      | [Lockpicking Chef](https://www.codechef.com/problems/LPC)
 |           |  |    [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Permutation_in_string.cpp)                     |  [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                      |
+|           |  |    [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_duplicates.cpp)                     |  [Removes Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)
 | 3          | 2023-09-25 | To solve yet                        | ...                        |
 |               |            |....                       | ...                        |
 
