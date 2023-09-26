@@ -21,7 +21,8 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |           |  |    [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Permutation_in_string.cpp)                     |  [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                      |
 |           |  |    [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_duplicates.cpp)                     |  [Removes Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab)
 | 3          | 2023-09-25 |   [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ProductOfArrayexceptSelf.cpp)                    | [Product Of Array except self](https://leetcode.com/problems/product-of-array-except-self/description/)                        |
-|               |            |....                       | ...                        |
+|  4             |  2023-09-26          |  [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/WavePrintMatrix.cpp)                     | [Print like a wave](https://www.codingninjas.com/studio/problems/print-like-a-wave_893268?leftPanelTab=0)                        |
+|               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SpiralMatrix.cpp)                      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |               |            |....                       | ...                        |
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
