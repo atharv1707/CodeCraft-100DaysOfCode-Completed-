@@ -1,3 +1,5 @@
+//APPROACH : print Starting row -> ending column -> ending row -> staring column .....and reduce or increase the respective indexes likewise  , according to the size of the matrix.
+
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
