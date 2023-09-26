@@ -1,3 +1,8 @@
+
+//My approach :  The main logic was ,  to  column-wise print the matrix, and then reverse the those columns at odd indexes. Think about it!
+//Because we are storing the result in a linear array, we traverse and if we find the column odd, we append it's element reverse to the RESULT, else we are fine with appending the column elements like we encounter them. 
+
+
 #include <iostream>
 #include <vector>
 
