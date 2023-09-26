@@ -11,6 +11,9 @@ Hello friend! Thanks for diving in so far in my profile! This repository contain
 
 In this repository, I am documenting my journey through the '100 Days of Code' challenge. Each day, I solve coding problems from different platforms, striving to enhance my skills and understanding of data structures and algorithms a little more than the previous day.
 
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRrb3RxaTQ3b2p2b3N4bHoyNGhkd3dhcW0xaWViNm1wNDVneG51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
+
+
 ## Challenge Progress
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
