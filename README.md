@@ -27,6 +27,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |  4             |  2023-09-26          |  [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/WavePrintMatrix.cpp)                     | [Print like a wave](https://www.codingninjas.com/studio/problems/print-like-a-wave_893268?leftPanelTab=0)                        |
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SpiralMatrix.cpp)                      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |   5            | 2023-09-27           |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/STOCKMARKET.cpp)                      | [Chef and Stocks](https://www.codechef.com/START102D/problems/STOCKMARKET?tab=statement)                       |
+|               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/PowerOfTwo.cpp)                      | [Power Of Two](https://leetcode.com/problems/power-of-two/description/)                        |
 |               |            |....                       | ...                        |
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
