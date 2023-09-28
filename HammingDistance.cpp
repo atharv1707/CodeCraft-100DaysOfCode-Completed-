@@ -1,3 +1,17 @@
+// Solution 0 : 
+
+// class Solution {
+// public:
+//     int hammingDistance(int x, int y) {
+
+//          int a  = __builtin_popcount(x^y); //using builtin function which count number of set bits (number of 1s in the binary representation of the number )
+//         return a;
+        
+//     }
+// };
+
+
+
 class Solution {
 public:
     int hammingDistance(int x, int y) {
