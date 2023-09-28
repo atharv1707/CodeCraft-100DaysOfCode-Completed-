@@ -28,6 +28,8 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SpiralMatrix.cpp)                      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |   5            | 2023-09-27           |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/STOCKMARKET.cpp)                      | [Chef and Stocks](https://www.codechef.com/START102D/problems/STOCKMARKET?tab=statement)                       |
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/PowerOfTwo.cpp)                      | [Power Of Two](https://leetcode.com/problems/power-of-two/description/)                        |
+|    6           |  2023-09-28          |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/HammingDistance.cpp)                     | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)                        |
+|               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ReverseBits.cpp)                      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)                        |
 |               |            |....                       | ...                        |
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
