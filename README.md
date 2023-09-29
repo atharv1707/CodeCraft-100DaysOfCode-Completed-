@@ -30,6 +30,8 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/PowerOfTwo.cpp)                      | [Power Of Two](https://leetcode.com/problems/power-of-two/description/)                        |
 |    6           |  2023-09-28          |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/HammingDistance.cpp)                     | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)                        |
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ReverseBits.cpp)                      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)                        |
+|    7           |  2023-09-29          |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LargestAltitude.cpp)                      | [Largest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)                       |
+|               |            |....                       | ...                        |
 |               |            |....                       | ...                        |
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
