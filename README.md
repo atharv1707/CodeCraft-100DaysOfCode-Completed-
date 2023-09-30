@@ -32,6 +32,8 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ReverseBits.cpp)                      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)                        |
 |    7           |  2023-09-29          |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LargestAltitude.cpp)                      | [Largest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)                       |
 |    8           | 2023-09-30           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/CountingBits.cpp)                       | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                     |
+|    9           | 2023-10-01           |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/NumberComplement.cpp)                      | [Number Complement](https://leetcode.com/problems/number-complement/description/)                       |
+|               |            |....                       | ...                        |
 |               |            |....                       | ...                        |
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
