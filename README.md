@@ -34,8 +34,12 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |    8           | 2023-09-30           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/CountingBits.cpp)                       | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                     |
 |    9           | 2023-10-01           |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/NumberComplement.cpp)                      | [Number Complement](https://leetcode.com/problems/number-complement/description/)                       |
 |               |            |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SummationBinary.cpp)                      | [Sum of two integers](https://leetcode.com/problems/sum-of-two-integers/description/)                        |
-|               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/IntegerReplacement.cpp)                       | [Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)                      |
+|      10         |  2023-10-02          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/IntegerReplacement.cpp)                       | [Integer Replacement](https://leetcode.com/problems/integer-replacement/description/)                      |
+|      11         | 2023-10-03           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Isomorphic%20Strings.cpp)                       | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)                        |
+|               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ransomNote.cpp)                       | [RansomNote](https://leetcode.com/submissions/detail/1066086949/)                        |
 |               |            |....                       | ...                        |
+
+
 
 <!-- Replace "link_to_solution_X" and "link_to_question_X" with your actual links -->
 
