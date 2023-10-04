@@ -1,5 +1,5 @@
 
-//solution 0 , it passes 39/42 testcases. Edge cases...*sighs
+//solution 0 , it passes 39/42 testcases. Edge cases...*sighs, it doesn't do the one-to-one mapping effectively though
 vector<string> splitString(const string& a) {
     vector<string> words;
     istringstream iss(a);
