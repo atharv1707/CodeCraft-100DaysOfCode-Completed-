@@ -39,7 +39,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ransomNote.cpp)                       | [RansomNote](https://leetcode.com/submissions/detail/1066086949/)                        |
 |     12          |  2023-10-04          |[Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Word%20Pattern.cpp)                       | [Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/ContaintsDuplicate2.cpp)                       | [Contains Duplicates 2 ](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150)                        |
+|    13           |  2023-10-05          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/reverseWord.cpp)                       | [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)                     |
+|               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/MinStack.cpp)                       | [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |               |            |....                       | ...                        |
+
 
 
 
