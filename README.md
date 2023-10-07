@@ -43,7 +43,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/MinStack.cpp)                       | [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |     14          |  2023-10-06          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Insert%20Delete%20getRandom(1).cpp)                      | [Insert Delete getRandom(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)                        |
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Simplify%20Path.cpp)                      |     [Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=study-plan-v2&envId=top-interview-150)                   |
-|               |            | *work in progress*                      | *work in progress*                        |
+|               |            | *work in progress..*                      | *work in progress..*                        |
 
 
 
