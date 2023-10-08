@@ -49,7 +49,9 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |      15         | 2023-10-07           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/B.%20AND%200%2C%20Sum%20Big.cpp)                      | [AND 0, Sum Big](https://codeforces.com/group/JESCgZZ8qn/contest/333990/problem/B)                      |
 |      16         | 2023-10-08           |   [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Math%20CodeForces/k-LCM.cpp)                   |   [k_LCM](https://codeforces.com/group/JESCgZZ8qn/contest/333990/problem/C)                     |
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Polish%20Notation.cpp)                   |  [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=study-plan-v2&envId=top-interview-150)                      |
+|      17         | 2023-10-09           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Linked%20List%20Cycle.cpp)                     |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)                       |
 |               |            | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
