@@ -52,7 +52,13 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |      17         | 2023-10-09           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Linked%20List%20Cycle.cpp)                     |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)                       |
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/CountNegatives.cpp)                     | [Count Negatives](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)                        |
 |      18         | 2023-10-10           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/canPlaceFlower.cpp)                      | [CanPlaceFlower](https://leetcode.com/problems/can-place-flowers/description/)                      |
+|       19        |  2023-10-11          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/DICENUM.cpp)                     | [Dice Number](https://www.codechef.com/problems/DICENUM)                        |
+|               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LongestConsecSequence.cpp)                     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)                       |
+|       20        | 2023-10-12           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/merge2SortedLists.cpp)                      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                        |
+|               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/RemoveN'thNodefromend.cpp)                     | [Remove Nth Node from End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150)                     |
 |               |            | *work in progress..*                      | *work in progress..*                        |
+
+
 
 
 
