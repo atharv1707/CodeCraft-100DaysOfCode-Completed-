@@ -56,7 +56,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LongestConsecSequence.cpp)                     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)                       |
 |       20        | 2023-10-12           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/merge2SortedLists.cpp)                      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                        |
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/RemoveN'thNodefromend.cpp)                     | [Remove Nth Node from End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150)                     |
+|       21        | 2023-10-13           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Rotate_list.cpp)                    |   [Rotate List](https://leetcode.com/problems/rotate-list/description/)                      |
+|               |            |          [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_duplicates_from_sortedList.cpp)            |      [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)                 |
 |               |            | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
