@@ -58,7 +58,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/RemoveN'thNodefromend.cpp)                     | [Remove Nth Node from End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=study-plan-v2&envId=top-interview-150)                     |
 |       21        | 2023-10-13           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Rotate_list.cpp)                    |   [Rotate List](https://leetcode.com/problems/rotate-list/description/)                      |
 |               |            |          [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_duplicates_from_sortedList.cpp)            |      [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)                 |
+|       22        | 2023-10-14           |   [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LRU.cpp)                 |  [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)                      |
+|               |            |    [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/kth%20factor%20of%20n.cpp)                   |  [kth factor](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)(https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)                     |
 |               |            | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
