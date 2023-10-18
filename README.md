@@ -60,7 +60,11 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |               |            |          [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_duplicates_from_sortedList.cpp)            |      [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/?envType=study-plan-v2&envId=top-interview-150)                 |
 |       22        | 2023-10-14           |   [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/LRU.cpp)                 |  [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=study-plan-v2&envId=top-interview-150)                      |
 |               |            |    [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/kth%20factor%20of%20n.cpp)                   |  [kth factor](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)                     |
-|               |            | *work in progress..*                      | *work in progress..*                        |
+|       23        | 2023-10-15           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Book_Allocation.cpp)                      | [Book Allocation](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)                        |
+|       24        | 2023-10-16           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)                     | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)                        |
+|       25        | 2023-10-17           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Bulb_Switcher.cpp)                      | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)                       |
+|              |           | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
