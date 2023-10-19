@@ -63,7 +63,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       23        | 2023-10-15           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Book_Allocation.cpp)                      | [Book Allocation](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)                        |
 |       24        | 2023-10-16           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)                     | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)                        |
 |       25        | 2023-10-17           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Bulb_Switcher.cpp)                      | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)                       |
+|       26       | 2023-10-18          |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Aggressive%20Cows.cpp)                    | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/0)                        |
+|       27       | 2023-10-19          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/largest_number.cpp)                      | [Largest Number](https://leetcode.com/problems/largest-number/description/)                        |
 |              |           | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
