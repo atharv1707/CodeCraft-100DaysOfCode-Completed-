@@ -65,7 +65,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       25        | 2023-10-17           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Bulb_Switcher.cpp)                      | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)                       |
 |       26       | 2023-10-18          |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Aggressive%20Cows.cpp)                    | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/0)                        |
 |       27       | 2023-10-19          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/largest_number.cpp)                      | [Largest Number](https://leetcode.com/problems/largest-number/description/)                        |
+|     28         | 2023-10-20          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Add%20Binary.cpp)                     | [Add Binary](https://leetcode.com/problems/add-binary/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Excel%20Sheet%20Column.cpp)                      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                        |
 |              |           | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
