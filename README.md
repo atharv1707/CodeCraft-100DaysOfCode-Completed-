@@ -19,6 +19,8 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
+**_Solved_Count : 49/n_**
+
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
 | 1             | 2023-09-23 | [Solution ](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Happy_number)                       | [Happy Number](https://leetcode.com/problems/happy-number/description/)                          |
