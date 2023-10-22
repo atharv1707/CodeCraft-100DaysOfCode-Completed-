@@ -67,7 +67,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       27       | 2023-10-19          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/largest_number.cpp)                      | [Largest Number](https://leetcode.com/problems/largest-number/description/)                        |
 |     28         | 2023-10-20          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Add%20Binary.cpp)                     | [Add Binary](https://leetcode.com/problems/add-binary/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Excel%20Sheet%20Column.cpp)                      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                        |
+|     29         | 2023-10-21          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/GoalParser.cpp)                     | [Goal Parser](https://leetcode.com/problems/goal-parser-interpretation/description/)                        |
 |              |           | *work in progress..*                      | *work in progress..*                        |
+|              |           | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
