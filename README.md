@@ -70,8 +70,11 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |     28         | 2023-10-20          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Add%20Binary.cpp)                     | [Add Binary](https://leetcode.com/problems/add-binary/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Excel%20Sheet%20Column.cpp)                      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                        |
 |     29         | 2023-10-21          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/GoalParser.cpp)                     | [Goal Parser](https://leetcode.com/problems/goal-parser-interpretation/description/)                        |
+|     30         |2023-10-22           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Dominant%20Element.cpp)                     | [Chef and Happy String](https://www.codechef.com/practice/PCPPST01/problems/HAPPYSTR)                       |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Happy%20String.cpp)                      | [Blobby Valley Scores](https://www.codechef.com/practice/PCPPST01/problems/BLOBBYVOLLEY?tab=statement)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Blobby%20Volley%20Scores.cpp)                      | [Dominant Element](https://www.codechef.com/practice/INTARR01/problems/DOMINANT2)                       |
 |              |           | *work in progress..*                      | *work in progress..*                        |
-|              |           | *work in progress..*                      | *work in progress..*                        |
+
 
 
 
