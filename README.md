@@ -74,7 +74,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Happy%20String.cpp)                      | [Blobby Valley Scores](https://www.codechef.com/practice/PCPPST01/problems/BLOBBYVOLLEY?tab=statement)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Blobby%20Volley%20Scores.cpp)                      | [Dominant Element](https://www.codechef.com/practice/INTARR01/problems/DOMINANT2)                       |
 |     31         | 2023-10-23          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Single%20Number%202%20.cpp)                      | [Single Number 2 ](https://leetcode.com/problems/single-number-ii/description/)                        |
-|              |           | *work in progress..*                      | *work in progress...*                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Length%20of%20last%20word.cpp)                      | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                        |
 |              |           | *work in progress..*                      | *work in progress...*                        |
 
 
