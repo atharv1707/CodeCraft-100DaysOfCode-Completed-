@@ -17,7 +17,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 ![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRrb3RxaTQ3b2p2b3N4bHoyNGhkd3dhcW0xaWViNm1wNDVneG51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 
-## Challenge Progress
+## Challenge Progress.
 
 **_Solved_Count : 51/n_**
 
