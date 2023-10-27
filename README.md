@@ -75,7 +75,16 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Blobby%20Volley%20Scores.cpp)                      | [Dominant Element](https://www.codechef.com/practice/INTARR01/problems/DOMINANT2)                       |
 |     31         | 2023-10-23          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Single%20Number%202%20.cpp)                      | [Single Number 2 ](https://leetcode.com/problems/single-number-ii/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Length%20of%20last%20word.cpp)                      | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                        |
+|      32        | 2023-10-24          |   [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/interesection.cpp)                   |    [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                    |
+|              | 2023-10-25          |  *CHILL BREAK*                      |                          |
+|       33       | 2023-10-26          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/smallest_element_in_2_vector.cpp)                      |  [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/)                      |
+|      34        | 2023-10-27          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Excel%20Sheet%20Column%20Number.cpp)                      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/search_in_rotated_array_2.cpp)                      | [Search in Rotated Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sum%20of%20Square%20Numbers.cpp)                      | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                        |
 |              |           | *work in progress..*                      | *work in progress...*                        |
+
+
+
 
 
 
