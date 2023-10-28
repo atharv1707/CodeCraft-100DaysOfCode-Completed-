@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 51/n_**
+**_Solved_Count : 56/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -81,7 +81,9 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |      34        | 2023-10-27          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Excel%20Sheet%20Column%20Number.cpp)                      | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/search_in_rotated_array_2.cpp)                      | [Search in Rotated Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sum%20of%20Square%20Numbers.cpp)                      | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                        |
+|      35        |  2023-10-28         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/nth%20magical%20number.cpp)                      | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/submissions/1086224620/)                       |
 |              |           | *work in progress..*                      | *work in progress...*                        |
+
 
 
 
