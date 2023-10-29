@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 56/n_**
+**_Solved_Count : 58/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -82,7 +82,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/search_in_rotated_array_2.cpp)                      | [Search in Rotated Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sum%20of%20Square%20Numbers.cpp)                      | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                        |
 |      35        |  2023-10-28         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/nth%20magical%20number.cpp)                      | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/submissions/1086224620/)                       |
+|      36        | 2023-10-29          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Rat%20in%20a%20maze.cpp)                      | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/N-Queens.cpp)                     | [N-Queens](https://leetcode.com/problems/n-queens/description/)                        |
 |              |           | *work in progress..*                      | *work in progress...*                        |
+
 
 
 
