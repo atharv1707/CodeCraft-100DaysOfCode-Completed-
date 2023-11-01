@@ -83,8 +83,15 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sum%20of%20Square%20Numbers.cpp)                      | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)                        |
 |      35        |  2023-10-28         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/nth%20magical%20number.cpp)                      | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/submissions/1086224620/)                       |
 |      36        | 2023-10-29          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Rat%20in%20a%20maze.cpp)                      | [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)                        |
-|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/N-Queens.cpp)                     | [N-Queens](https://leetcode.com/problems/n-queens/description/)                        |
+|      37        | 2023-10-30          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/N-Queens.cpp)                     | [N-Queens](https://leetcode.com/problems/n-queens/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SortIntergers_by_1_bits.cpp)                     | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/)                        |
+|      38        | 2023-10-31          | [Sudoku Solver](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sudoku_Solver.cpp)                      | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)                        |
+|      39        | 2023-11-01          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/FIZZBUZZ2303%20(1).cpp)                      | [Chef Fantasy 11](https://www.codechef.com/problems/FIZZBUZZ2303)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/powerof3.cpp)                      | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                        |
 |              |           | *work in progress..*                      | *work in progress...*                        |
+
+
+
 
 
 
