@@ -89,7 +89,9 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |      39        | 2023-11-01          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/FIZZBUZZ2303%20(1).cpp)                      | [Chef Fantasy 11](https://www.codechef.com/problems/FIZZBUZZ2303)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/powerof3.cpp)                      | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                        |
 |      40        | 2023-11-02          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/remove_duplicates_list.cpp)                      | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)                        |
+|              | 2023-11-03          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_elements_LL.cpp)                      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)                        |
 |              |           | *work in progress..*                      | *work in progress...*                        |
+
 
 
 
