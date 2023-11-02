@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 58/n_**
+**_Solved_Count : 60/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
