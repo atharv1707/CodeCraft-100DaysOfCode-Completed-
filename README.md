@@ -90,7 +90,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/powerof3.cpp)                      | [Power of Three](https://leetcode.com/problems/power-of-three/description/)                        |
 |      40        | 2023-11-02          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/remove_duplicates_list.cpp)                      | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)                        |
 |              | 2023-11-03          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove_elements_LL.cpp)                      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)                        |
-|              |           | *work in progress..*                      | *work in progress...*                        |
+|             |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Fraction%20To%20Recurring%20Decimal.cpp)                      | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)                        |
+|     41         | 2023-11-04          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)                     | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)                        |
+|              |           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Parantheses.cpp)                    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                        |
+|              |           | *work in progress...*                   | *work in progress...*                        |
 
 
 
