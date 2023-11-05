@@ -93,7 +93,11 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |             |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Fraction%20To%20Recurring%20Decimal.cpp)                      | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)                        |
 |     41         | 2023-11-04          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)                     | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)                        |
 |              |           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Parantheses.cpp)                    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                        |
+|      42        |  2023-11-05         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Custom%20Sort.cpp)                   | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)                       |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Verifying%20and%20Alien%20Dictionary.cpp)                   | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)                       |
 |              |           | *work in progress...*                   | *work in progress...*                        |
+
+
 
 
 
