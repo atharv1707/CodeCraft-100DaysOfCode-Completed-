@@ -95,6 +95,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           |  [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Parantheses.cpp)                    | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                        |
 |      42        |  2023-11-05         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Custom%20Sort.cpp)                   | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)                       |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Verifying%20and%20Alien%20Dictionary.cpp)                   | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)                       |
+|      43        | 2023-11-06           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Longest_word_in_dict.cpp)                   | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
 
 
