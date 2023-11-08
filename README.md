@@ -96,7 +96,12 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |      42        |  2023-11-05         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Custom%20Sort.cpp)                   | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)                       |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Verifying%20and%20Alien%20Dictionary.cpp)                   | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)                       |
 |      43        | 2023-11-06           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Longest_word_in_dict.cpp)                   | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/)                        |
+|       44       | 2023-11-07          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Only%20Letters.cpp)                  | [Reverse Only Letters](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Only%20Letters.cpp)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Longest%20Palindromic%20Substring.cpp)                   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                       |
+|       45       | 2023-11-08          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/maxWordsInSentence.cpp)                   | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
+|              |           | *work in progress...*                   | *work in progress...*                        |
+
 
 
 
