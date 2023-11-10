@@ -100,7 +100,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Longest%20Palindromic%20Substring.cpp)                   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                       |
 |       45       | 2023-11-08          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/maxWordsInSentence.cpp)                   | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|              |           | *work in progress...*                   | *work in progress..*                        |
 
 
 
