@@ -99,8 +99,12 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       44       | 2023-11-07          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Only%20Letters.cpp)                  | [Reverse Only Letters](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Only%20Letters.cpp)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Longest%20Palindromic%20Substring.cpp)                   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                       |
 |       45       | 2023-11-08          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/maxWordsInSentence.cpp)                   | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|       46       | 2023-11-09          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/String%20Compression.cpp)                   | [String Compression](https://leetcode.com/problems/string-compression/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Int_to_Roman.cpp)                  | [Roman to Integers](https://leetcode.com/problems/integer-to-roman/description/)                        |
+|       47       | 2021-11-10           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove%20All%20Occurrences%20of%20a%20Substring.cpp)                  | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Palindrome%202%20.cpp)                  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                        |
 |              |           | *work in progress...*                   | *work in progress..*                        |
+
 
 
 
