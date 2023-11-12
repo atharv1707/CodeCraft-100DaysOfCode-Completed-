@@ -103,7 +103,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Int_to_Roman.cpp)                  | [Roman to Integers](https://leetcode.com/problems/integer-to-roman/description/)                        |
 |       47       | 2021-11-10           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove%20All%20Occurrences%20of%20a%20Substring.cpp)                  | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Palindrome%202%20.cpp)                  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                        |
-|              |           | *work in progress...*                   | *work in progress..*                        |
+|              |           | *work in progress...*                   | *work in progress...*                        |
 
 
 
