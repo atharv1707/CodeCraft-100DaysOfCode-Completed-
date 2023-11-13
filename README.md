@@ -104,7 +104,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       47       | 2021-11-10           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Remove%20All%20Occurrences%20of%20a%20Substring.cpp)                  | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Palindrome%202%20.cpp)                  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                        |
 |        48      | 2021-11-11          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/baseof7.cpp)                   | [Base 7](https://leetcode.com/problems/base-7/)                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|              |           | *work in progress...*                   | *work in progress..*                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
 
 
