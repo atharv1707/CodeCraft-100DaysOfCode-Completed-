@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 78/n_**
+**_Solved_Count : 80/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -105,7 +105,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Valid%20Palindrome%202%20.cpp)                  | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)                        |
 |        48      | 2021-11-11          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/baseof7.cpp)                   | [Base 7](https://leetcode.com/problems/base-7/)                        |
 |        49      | 2021-12-12          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20Linked%20List.cpp)                   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|         50     | 2021-11-13          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20A%20Stack.cpp)                   | [Reverse a Stack](https://practice.geeksforgeeks.org/problems/reverse-a-stack/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
 
