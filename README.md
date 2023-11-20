@@ -113,7 +113,6 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       53       | 2021-11-16          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Top%20K%20Frequent.cpp)                   | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20the%20Prefix.cpp)                   | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
 
 
 
