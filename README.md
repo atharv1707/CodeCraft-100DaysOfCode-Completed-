@@ -113,7 +113,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       53       | 2023-11-16          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Top%20K%20Frequent.cpp)                   | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Reverse%20the%20Prefix.cpp)                   | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)                        |
 |       54       | 2023-11-17           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SignFunc().cpp)                   | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)                        |
+|       55       | 2023-11-18          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sliding%20Window%20Maximum.cpp)                  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Minumim%20Window%20Substring.cpp)                   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                       |
 |              |           | *work in progress...*                   | *work in progress...*                        |
+
 
 
 
