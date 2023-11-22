@@ -115,7 +115,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       54       | 2023-11-17           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SignFunc().cpp)                   | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)                        |
 |       55       | 2023-11-18          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sliding%20Window%20Maximum.cpp)                  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Minumim%20Window%20Substring.cpp)                   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                       |
+|      56        | 2023-11-19          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Ugly%20Number%202.cpp)                   | [Ugly Number](https://leetcode.com/problems/ugly-number/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Ugly_Number.cpp)                  | [Ugly Number 2](https://leetcode.com/problems/ugly-number-ii/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
+
 
 
 
