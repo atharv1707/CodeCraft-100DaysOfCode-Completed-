@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 86/n_**
+**_Solved_Count : 92/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -117,7 +117,16 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Minumim%20Window%20Substring.cpp)                   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                       |
 |      56        | 2023-11-19          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Ugly%20Number%202.cpp)                   | [Ugly Number](https://leetcode.com/problems/ugly-number/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Ugly_Number.cpp)                  | [Ugly Number 2](https://leetcode.com/problems/ugly-number-ii/description/)                        |
+|        57      |2023-11-20           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Make%20an%20AP.cpp)                | [Can You Make an Arithmetic Progression](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Check%20For%20Straight%20Line.cpp)                   | [Check for Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/)                        |
+|              | 2023-11-21          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Erect%20the%20Fence.cpp)                   | [Erect the Fence](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Add%20Digits.cpp)                   | [Add Digits](https://leetcode.com/problems/add-digits/description/)                       |
+|              |  2023-11-22         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20Good%20Pair.cpp)                  | [Find Good Pair](https://leetcode.com/problems/number-of-good-pairs/)                       |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20Players%20with%20zero%20or%201%20losses.cpp)                   | [Find Players with zero or 1 loss](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)                        |
 |              |           | *work in progress...*                   | *work in progress...*                        |
+
+
+
 
 
 
