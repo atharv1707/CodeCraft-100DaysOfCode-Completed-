@@ -124,7 +124,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |       59       |  2023-11-22         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20Good%20Pair.cpp)                  | [Find Good Pair](https://leetcode.com/problems/number-of-good-pairs/)                       |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20Players%20with%20zero%20or%201%20losses.cpp)                   | [Find Players with zero or 1 loss](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)                        |
 |       60       |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SubArray%20Sum.cpp)                   | [Minimum Size Subarray Sum]()                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|              |           | *work in progress...*                   | *work in progress....*                        |
 
 
 
