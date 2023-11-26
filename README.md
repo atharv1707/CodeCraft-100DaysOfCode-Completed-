@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 94/n_**
+**_Solved_Count : 95/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -125,7 +125,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20Players%20with%20zero%20or%201%20losses.cpp)                   | [Find Players with zero or 1 loss](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/)                        |
 |       60       |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/SubArray%20Sum.cpp)                   | [Minimum Size Subarray Sum]()                        |
 |        61      | 2023-11-23          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20All%20Anagrams%20in%20a%20String.cpp)                   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                        |
-|              |           | *work in progress...*                   | *work in progress....*                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Counting%20Bits.cpp)                  | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                        |
 |              |           | *work in progress...*                   | *work in progress....*                        |
 
 
