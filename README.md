@@ -19,7 +19,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 
 ## Challenge Progress
 
-**_Solved_Count : 96/n_**
+**_Solved_Count : 99/n_**
 
 | Serial Number | Date       | Solution Link                                             | Code Question Link                                       |
 |---------------|------------|-----------------------------------------------------------|-----------------------------------------------------------|
@@ -127,7 +127,10 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |        60      | 2023-11-23          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Find%20All%20Anagrams%20in%20a%20String.cpp)                   | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Counting%20Bits.cpp)                  | [Counting Bits](https://leetcode.com/problems/counting-bits/description/)                        |
 |      61        | 2021-11-24          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Asteroid%20Collision.cpp)                   | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                        |
+|       62       | 2023-11-25          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Maximum%20Vowels%20in%20a%20substring.cpp)                   | [Max Number of Vowels in a substring](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)                        |
+|              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/K%20Radius%20Average.cpp)                   | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/description/)                       |
 |              |           | *work in progress...*                   | *work in progress....*                        |
+
 
 
 
