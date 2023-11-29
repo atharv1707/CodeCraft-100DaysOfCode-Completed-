@@ -21,6 +21,7 @@ public:
 
           return MaxLen;
     }
+
     int longestSubarray(vector<int>& nums) {
         int n = nums.size();
         int countZeroes = 0 ; 
@@ -69,6 +70,34 @@ public:
             maxLen = max(maxLen, j-i);
         }
         
+        return maxLen;
+    }
+};
+
+//approach 3 better sliding window
+
+class Solution {
+public:
+    int longestSubarray(vector<int>& nums) {
+        int i = 0 ;
+        int j = 0 ; 
+        int maxLen = 0 ;
+
+        int last_seen = -1;
+
+
+        while(j < nums.size()){
+
+            if(nums[j] == 0){
+                i = last_seen +1 ;
+                last_seen = j ;
+            }
+
+            maxLen = max(maxLen , j-i);
+            j++;
+        }
+        
+
         return maxLen;
     }
 };
