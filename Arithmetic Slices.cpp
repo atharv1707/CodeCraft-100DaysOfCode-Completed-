@@ -1,3 +1,5 @@
+//O(N^2) 
+
 class Solution {
 public:
     bool checkSubarr(int i, int j, vector<int>& nums){
