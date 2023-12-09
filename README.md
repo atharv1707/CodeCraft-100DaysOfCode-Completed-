@@ -156,7 +156,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sieve%20of%20Erastothenes.cpp)                   | [Count Primes](https://leetcode.com/problems/count-primes/description/)                        |
 |              |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Single%20Element%20in%20Sorted%20Array.cpp)                   | [Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)                     |
 |              |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Guess%20Number%20Higher%20or%20Lower.cpp)                   | [Guess Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                        |
-|              |           | *work in progress...*                   | *work in progress...*                        |
+|              |           | *work in progress...*                   | *work in progress....*                        |
 |              |           | *work in progress...*                   | *work in progress....*                        |
 
 
