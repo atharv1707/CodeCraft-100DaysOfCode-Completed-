@@ -8,6 +8,7 @@ public:
             temp += (num%10) ;
             temp += (num/10) ;
             num = temp;
+            
         }
 
         return num;
