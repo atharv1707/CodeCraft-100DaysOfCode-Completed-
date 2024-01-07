@@ -157,7 +157,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 |              |         | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Single%20Element%20in%20Sorted%20Array.cpp)                   | [Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)                     |
 |        75      | 2023-12-08                | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Guess%20Number%20Higher%20or%20Lower.cpp)                   | [Guess Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                        |
 |              |           | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Evaluate%20Boolean%20Binary%20Tree.cpp)                   | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)                        |
-|              |           | *work in progress...*                   | *work in progress....*                        |
+|       76       | 2023-12-09          | [Solution](https://github.com/atharv1707/CodeCraft-100DaysOfCode/blob/main/Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.cpp)                   | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)                        |
 |              |           | *work in progress...*                   | *work in progress....*                        |
 |              |           | *work in progress...*                   | *work in progress....*                        |
 
