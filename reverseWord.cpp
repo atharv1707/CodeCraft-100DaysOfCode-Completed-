@@ -6,6 +6,7 @@ public:
         stack<string> wordStack;
         string word;
 
+
         //start making word
         for(char c : s){
             if(c == ' '){
