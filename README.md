@@ -14,7 +14,7 @@ In this repository, I am documenting my journey through the '100 Days of Code' c
 *think before writing the code always !! , it saves much more time, than writing without thinking* -- Some Wise Programmer
 
 
-**Update** : The challenge was completed on 4th January, 2024. (Don't mind the incomplete table, it was bit troublesome to take care of. Definitely go through the repo! Thanks for visiting!!
+**Update** : The challenge is completed on 4th January, 2024. (Don't mind the incomplete table, it was bit troublesome to take care of. Definitely go through the repo! Thanks for visiting!!
 
 ![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRrb3RxaTQ3b2p2b3N4bHoyNGhkd3dhcW0xaWViNm1wNDVneG51cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
