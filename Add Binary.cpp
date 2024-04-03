@@ -9,6 +9,7 @@ public:
         int max_size =  max(a.size(), b.size());
         string res = "";
 
+        
         for(int i = 0 ; i < max_size ; i++){
 
             int bit_a = (i < a.size()) ? a[a.size()-1-i]-'0' : 0;
